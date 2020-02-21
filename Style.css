@@ -3,7 +3,7 @@ body{
   margin: 0;
   font-family: 'Bree serif', sans-serif;
 color: white;
-  background-image: url("images/base.jpg");
+  background-image: url("images/background.jpeg");
 
 }
 header{
@@ -62,10 +62,14 @@ h1{
 #aboutimgright img {
     margin-right: 30px;
 }
+.video{
+  margin-top: 10em;
+  margin-left: 30em;
+  margin-right: 10em;
+}
 
 footer {
     text-align: center;
-    position: absolute;
     bottom: 0;
     width: 100%;
     background-color: rgba(0,0,0,0.4);
